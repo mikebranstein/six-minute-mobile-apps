@@ -1,0 +1,12 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="onLoaded">
+    
+    /* ns5 */
+    <StackLayout>
+
+        <Label text="{{ 'Click count: ' + count  }}" textWrap="true" />
+
+        <Button text="Click me!" tap="onButtonTap" />
+
+    </StackLayout>
+
+</Page>

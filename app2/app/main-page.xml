@@ -1,0 +1,14 @@
+<Page>
+
+    /* ns1 */
+    <StackLayout>
+    
+        <Label text="hello!" />
+    
+        <TextField hint="" text="Fill me in!" />
+    
+        <Button text="Click me!" tap=""  />
+    
+    </StackLayout>
+    
+</Page>

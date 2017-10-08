@@ -1,0 +1,12 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="onLoaded">
+    
+    /* ns2 */
+    <StackLayout>
+    
+        <Label id="label" text="Click count: 0" textWrap="true" />
+    
+        <Button text="Click me!" tap="onButtonTap" />
+    
+    </StackLayout>
+
+</Page>

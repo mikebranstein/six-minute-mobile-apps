@@ -1,0 +1,4 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="onLoaded">
+    /* ns7 */
+	<Button text="Navigate to new page" tap="onTap" />
+</Page>

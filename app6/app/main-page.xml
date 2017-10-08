@@ -1,0 +1,5 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="onLoaded" navigatedTo="onNavigatedTo">
+    
+    /* ns11 */
+    <Button text="Use Camera" tap="onTap" /> 
+</Page>
